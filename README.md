@@ -1,0 +1,108 @@
+# ワンダーランズ×ショウタイム – Glory Steady Go!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+見つけちゃった！
+大事にしていたい思い
+ぎゅっと ぎゅっと
+抱きしめなきゃ こぼれちゃいそう
+胸は秘めずに
+張っていかなきゃね？
+ほらほら もっともっと
+奏でたい エモーション
+Hurry! Hurry!
+何時？ 何時？
+今すぐ！
+What do you want to do?
+and what do you like?
+showtime! showtime!
+What do you want to be?
+…?うーわんだほーい！！！
+伝えたいのは
+言葉だけじゃならないメロディ
+溢れるリズムでいいじゃん
+(キミのリズムがいいじゃん！)
+耳を澄ませばほら
+夢ときめいたなら
+Let’s dance!! Yeah!!
+Let’s sing a song!!
+ワンダランズ×ショータイム！
+Glory! 生きてるって最高！
+歌いたい！
+もっと (もっと！)
+もっと夢見ちゃえ！
+カラフルなセカイみたいな
+Steady!　Steady!
+1歩ずつね　踏みしめていこう
+Wake up!
+Stand up!
+なりたい自分を目指してGo!
+この想いのせて　歌よ響け！
+Glory Steady Go!
+It's time to Smile!
+It's time to uhh…WAO!!!
+It's time to showtime!
+ワンダランズ×ショータイム
+改めまして！
+かくれんぼが得意な想い
+そっと　そっと
+微笑むとこから (そうでしょ？)
+いつだってさ忘れたくないなぁ
+ほらほら　やっぱやっぱ
+描きたい　Dreaming!
+Hurry! Hurry!
+何時？ 何時？
+今すぐ！
+What do you want to do?
+and what do you like?
+showtime!  showtime!
+What song do you sing?
+…ラララララララ
+それはつまり
+今しかなりえないメロディ
+愛しいな1.2.jump!
+(キミのリズムでJumping!)
+風を紡いで青い春弾けたなら
+Let’s dance!! Yeah!!
+Let’s sing a song!!
+It's showtime!
+Glory! 生きてるって最高！
+踊りたい！
+もっと (もっと！)
+もっと笑っちゃえ
+キラキラなMIRAI見たいな
+Steady! Steady!
+雨が降っても踏みしめていこう
+Wake up!
+Stand up!
+足跡は消えやしないから
+空を見上げれば　虹がかかるよ
+Don't worry!!
+刻め　Shake! Shake! Shake!
+響け　Clap hands!
+不器用な音でも伝うよ
+何気ないDairy
+それはShiny Days
+嗚呼、涙が溢れそう
+Let’s dance!! Yeah!!
+Let’s sing a song!!
+ワンダランズ×ショータイム！
+Glory!　生きてるって最高！
+歌いたい！
+もっと (もっと！)
+もっと夢見ちゃえ！
+憧れたDIVAなんだ
+Steady! Steady!
+1歩ずつね 踏みしめていこう
+Wake up!
+Stand up!
+なりたい自分を目指してGo!
+この想いのせて　歌よ響け！
+Glory Steady Go!
+I wanna be!
+It's time to Smile!
+It's time to uhh…WAO!!!
+It's time to showtime!
+ワンダランズ×ショータイム
+```
