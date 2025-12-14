@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Glory Steady Go!",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-14T17:10:56.848720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glory Steady Go! (feat. 天馬司, 鳳えむ, 草薙寧々, 神代類 & Megurine Luka)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_Glory_Steady_Go!_(feat._天馬司,_鳳えむ,_草薙寧々,_神代類_&_Megurine_Luka)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glory Steady Go!",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_Glory_Steady_Go!_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glory Steady Go! (Live)",
+      "artist": "Tokyo Philharmonic Orchestra",
+      "has_synced": false,
+      "path": "select/03_Glory_Steady_Go!_(Live)_Tokyo_Philharmonic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glory Steady Go! (Live)",
+      "artist": "東京フィルハーモニー交響楽団 & セカイシンフォニースペシャルバンド",
+      "has_synced": false,
+      "path": "select/04_Glory_Steady_Go!_(Live)_東京フィルハーモニー交響楽団_&_セカイシンフォニースペシャルバンド.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Glory Steady Go! -Instrumental-",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/05_Glory_Steady_Go!_-Instrumental-_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glory Steady Go! (feat. 初音ミク)",
+      "artist": "kinoshita",
+      "has_synced": true,
+      "path": "select/06_Glory_Steady_Go!_(feat._初音ミク)_kinoshita.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glory Steady Go! (Live)",
+      "artist": "東京フィルハーモニー交響楽団&セカイシンフォニースペシャルバンド",
+      "has_synced": false,
+      "path": "select/07_Glory_Steady_Go!_(Live)_東京フィルハーモニー交響楽団&セカイシンフォニースペシャルバンド.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glory Steady Go!",
+      "artist": "ワンダーランズ×ショウタイム × 巡音ルカ",
+      "has_synced": false,
+      "path": "select/pl_01_Glory_Steady_Go!_ワンダーランズ×ショウタイム_×_巡音ルカ.txt"
+    }
+  ]
+}
